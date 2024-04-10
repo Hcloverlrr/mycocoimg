@@ -1,0 +1,25 @@
+payload:
+  # - DOMAIN,apple.comscoreresearch.com
+  # - DOMAIN-SUFFIX,aaplimg.com
+  # - IP-CIDR,17.0.0.0/8,no-resolve
+  # pt站
+  - DOMAIN-SUFFIX,hdfun.me
+  - DOMAIN-SUFFIX,okpt.net
+  - DOMAIN-SUFFIX,icc2022.xyz
+  - SRC-IP-CIDR,192.168.2.100/30
+  - SRC-IP-CIDR,192.168.2.104/29
+  - SRC-IP-CIDR,192.168.2.112/28
+  - SRC-IP-CIDR,192.168.2.128/26
+  - SRC-IP-CIDR,192.168.2.192/27
+  - SRC-IP-CIDR,192.168.2.224/28
+  - SRC-IP-CIDR,192.168.2.240/29
+  - SRC-IP-CIDR,192.168.2.248/30
+  - SRC-IP-CIDR,192.168.2.252/31
+  - SRC-IP-CIDR,192.168.2.254/32
+    #我的服务
+  - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-KEYWORD,transmissionbt
+  - DOMAIN-KEYWORD,synology
+  
+  - DOMAIN-SUFFIX,kirakuapp.com,DIRECT
+  - DOMAIN-SUFFIX,liulongbin.top,DIRECT
