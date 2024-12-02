@@ -1,4 +1,4 @@
 payload:
   - '*.bulianglin.com'
-  - '*.clash.wiki'
+  - '+.clash.wiki'
   - '*.metacubex.one'
